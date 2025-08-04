@@ -22,7 +22,7 @@ Make sure you have the following installed on your machine:
 
 1.  **Clone this repository**:
     ```bash
-    git clone [https://github.com/username/your-project-name.git](https://github.com/username/your-project-name.git)
+      https://github.com/Dardabiee/scanner-app.git
     ```
     (Replace `username` and `your-project-name` with your repository information)
 
